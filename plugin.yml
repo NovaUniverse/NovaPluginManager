@@ -1,0 +1,7 @@
+main: net.zeeraa.novapluginmanager.NovaPluginManager
+version: 1.0
+name: NovaPluginManager
+description: A plugin manager
+authors: [Zeeraa]
+
+depend: [NovaCore]
